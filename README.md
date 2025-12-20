@@ -1,4 +1,6 @@
-# SSA-Auto-Roller
+# # SSA Auto Roller [[Check Releases to Install](https://github.com/spctrl1/SSA-Auto-Roller/releases/latest)]
+
+[![Download](https://img.shields.io/github/v/release/spctrl1/SSA-Auto-Roller?label=Download&style=for-the-badge)](https://github.com/spctrl1/SSA-Auto-Roller/releases/latest)
 
 <img width="477" height="900" alt="image" src="https://github.com/user-attachments/assets/59802b79-4426-43a9-becf-2bc192a49002" />
 
