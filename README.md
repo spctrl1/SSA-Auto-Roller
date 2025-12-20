@@ -1,5 +1,8 @@
 # SSA-Auto-Roller
 
+<img width="477" height="900" alt="image" src="https://github.com/user-attachments/assets/59802b79-4426-43a9-becf-2bc192a49002" />
+
+
 A custom Python automation tool for rolling Supreme Star Amulets (SSA). I originally built this for personal use and friends, but I am releasing it publicly for anyone who needs it.
 
 ## Important: Virus & Safety Warning
