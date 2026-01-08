@@ -1,0 +1,55 @@
+{
+    "always_on_top": false,
+    "debug_mode": false,
+    "honey_amount": "0",
+    "scan_rect": [
+        0.52,
+        0.43,
+        0.08,
+        0.12
+    ],
+    "btn_coords": {
+        "yes": [
+            0.45,
+            0.54
+        ],
+        "no": [
+            0.55,
+            0.54
+        ]
+    },
+    "delays": {
+        "interact": 0.6,
+        "refresh": 0.8
+    },
+    "amulets": [
+        {
+            "passives": [
+                "Pop Star"
+            ],
+            "stats": {},
+            "stat_checks": {
+                "Pollen (8 - 20)": false,
+                "White Pollen (15 - 70)": false,
+                "Blue Pollen (15 - 70)": false,
+                "Red Pollen (15 - 70)": false,
+                "Bee Gather Pollen (15 - 70)": false,
+                "Instant Conversion (5 - 12)": false,
+                "Convert Rate (1.05 - 1.25)": false,
+                "Bee Ability Rate (2 - 7)": false,
+                "Critical Chance (2 - 7)": false
+            },
+            "stat_values": {
+                "Pollen (8 - 20)": "0",
+                "White Pollen (15 - 70)": "0",
+                "Blue Pollen (15 - 70)": "0",
+                "Red Pollen (15 - 70)": "0",
+                "Bee Gather Pollen (15 - 70)": "0",
+                "Instant Conversion (5 - 12)": "0",
+                "Convert Rate (1.05 - 1.25)": "0",
+                "Bee Ability Rate (2 - 7)": "0",
+                "Critical Chance (2 - 7)": "0"
+            }
+        }
+    ]
+}
