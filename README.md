@@ -14,7 +14,7 @@ A custom Python automation tool for rolling Supreme Star Amulets (SSA). I origin
 Im not paying to get this certified by Microsoft so you will receive a warning when you unzip/run the program.
 
 * **Windows Defender may flag this file as a virus.** This is a known "false positive" that happens with almost all Python scripts compiled into `.exe` files (PyInstaller).
-* **The code is open source.** If you are uncomfortable running the `.exe`, you can view all the source code in this repository and run the raw `AutoSsaRoller.py` file yourself (requires Python + Tesseract installed).
+* **The code is open source.** If you are uncomfortable running the `.exe`, you can view all the source code in this repository and run the raw `AutoSsaRoller.py` file yourself (requires Python 3.11.9 + RapidOCRAuto installed).
 
 ## Prerequisites
 * **Display Scale:** Windows settings **must** be set to **100%**.
