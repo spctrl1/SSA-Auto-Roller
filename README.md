@@ -17,7 +17,7 @@ Im not paying to get this certified by Microsoft so you will receive a warning w
 * **The code is open source.** If you are uncomfortable running the `.exe`, you can view all the source code in this repository and run the raw `AutoSsaRoller.py` file yourself (requires Python 3.11.9 + RapidOCRAuto installed).
 
 ## Prerequisites
-* **Display Scale:** Windows settings **must** be set to **100%**.
+* **Display Scale:** Windows settings **must** be set to **100%** [If you are on 4K you may need to use different settings].
 * **Roblox Settings:**
     * Mode: **Fullscreen** or **Windowed Fullscreen**.
 * **In-Game Position:** Stand directly in front of the Supreme Star Amulet generator so the GUI is clearly visible on screen.
@@ -31,7 +31,7 @@ Expand the **Macro Config** section at the bottom of the tool.
 * **Set OCR Area:**
     1. Manually generate one amulet so the stats are visible on your screen.
     2. Click the **Show Box** button.
-    3. Adjust the `X, Y, W, H` sliders until the **Green Box** perfectly covers the text of the **New Amulet** (the one on the right side).
+    3. Adjust the `X, Y, W, H` sliders until the **Red Box** perfectly covers the text of the **New Amulet** (the one on the right side).
 
 ### 2. Configure Targets
 * Click **+ Add Amulet** to add a new target profile (you can have multiple).
