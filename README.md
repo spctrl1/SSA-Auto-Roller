@@ -37,7 +37,7 @@ Expand the **Macro Config** section at the bottom of the tool.
 * Click **+ Add Amulet** to add a new target profile (you can have multiple).
 * **Passives:** Check the passives you want (Max 2).
 * **Stats:** Check the stats you require.
-    * Input the **minimum percentage** needed (e.g., enter `50` for 50%).
+    * Input the **minimum percentage** needed (e.g., enter `45` for 45% minimum stat value; The Entered value is also counted).
     * Leave the value as `0` if you want the stat but don't care about the percentage.
 
 ### 3. Test & Run
