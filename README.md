@@ -2,13 +2,15 @@
 
 [![Download](https://img.shields.io/github/v/release/spctrl1/SSA-Auto-Roller?label=Download&style=for-the-badge)](https://github.com/spctrl1/SSA-Auto-Roller/releases/latest)
 
-A custom Python automation tool for rolling Supreme Star Amulets (SSA). I originally built this for personal use and friends, but I am releasing it publicly for anyone who needs it.
+A custom Python automation tool for rolling Supreme Star Amulets (SSA). I originally built this for personal use and friends, but I am releasing it publicly for anyone who needs it. 
+
+[Note: built for 1080p -> 1440p; you can try using it with 4K but i have not tested it]
 
 ## How to Install & Use
 1.  Go to the **Releases** section on the right and download `AutoSsaRoller.exe`.
 3.  run `AutoSsaRoller.exe`.
 4.  If Windows prevents startup, click **More Info** -> **Run Anyway**.
-5. Make sure you are on 100% Display scale HD or FHD.
+
 
 ## Important: Virus & Safety Warning
 Im not paying to get this certified by Microsoft so you will receive a warning when you unzip/run the program.
