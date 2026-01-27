@@ -4,12 +4,15 @@
 
 A custom Python automation tool for rolling Supreme Star Amulets (SSA). I originally built this for personal use and friends, but I am releasing it publicly for anyone who needs it. 
 
-[Note: built for 1080p -> 1440p; you can try using it with 4K but i have not tested it]
+[Note: built for 1080p -> 1440p; you can try using it with 4K but i have not tested it.]
+
+[To roll single passives, simply select no passives or one passive on the target amulet.]
 
 ## How to Install & Use
 1.  Go to the **Releases** section on the right and download `AutoSsaRoller.exe`.
 3.  run `AutoSsaRoller.exe`.
 4.  If Windows prevents startup, click **More Info** -> **Run Anyway**.
+5
 
 
 ## Important: Virus & Safety Warning
